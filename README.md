@@ -1,2 +1,2 @@
 # Simple_HDMR
-A simple 1D HDMR built using python.
+A simple 2D HDMR built using python.
